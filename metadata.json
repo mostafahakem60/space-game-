@@ -1,0 +1,6 @@
+{
+  "name": "Neon Strike - Space Shooter",
+  "description": "An HTML5 Canvas Space Shooter game optimized for mobile devices with neon graphics style, power-ups, and particle explosions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
